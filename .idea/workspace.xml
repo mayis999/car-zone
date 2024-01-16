@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bc141f5-2fd0-4313-ac6f-8d3669efbd10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/carzone/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/carzone/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_dump.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2YafCCk48BarYwStSuU03GaWL5x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mayis/PycharmProjects/carzone&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mayis\PycharmProjects\carzone\cars" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="carzone" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc141f5-2fd0-4313-ac6f-8d3669efbd10" name="Changes" comment="" />
+      <created>1700768481378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700768481378</updated>
+      <workItem from="1700768482720" duration="4007000" />
+      <workItem from="1700838848685" duration="5069000" />
+      <workItem from="1700905054487" duration="10000" />
+      <workItem from="1700935220245" duration="6230000" />
+      <workItem from="1701016367077" duration="6000" />
+      <workItem from="1701030610240" duration="4208000" />
+      <workItem from="1701186795308" duration="7000" />
+      <workItem from="1701276548022" duration="6978000" />
+      <workItem from="1701359227461" duration="173000" />
+      <workItem from="1701455729017" duration="3007000" />
+      <workItem from="1701528980923" duration="16000" />
+      <workItem from="1701535957202" duration="469000" />
+      <workItem from="1701798785766" duration="6359000" />
+      <workItem from="1701883326474" duration="6207000" />
+      <workItem from="1701962992331" duration="9305000" />
+      <workItem from="1702064278054" duration="3107000" />
+      <workItem from="1702206493132" duration="1629000" />
+      <workItem from="1702321698582" duration="4484000" />
+      <workItem from="1702486193373" duration="5000" />
+      <workItem from="1702569038388" duration="16000" />
+      <workItem from="1702669191973" duration="4903000" />
+      <workItem from="1702725123694" duration="5411000" />
+      <workItem from="1702827399732" duration="51000" />
+      <workItem from="1702827529358" duration="58000" />
+      <workItem from="1702837746621" duration="88000" />
+      <workItem from="1702837912589" duration="636000" />
+      <workItem from="1702844553280" duration="2100000" />
+      <workItem from="1702898842899" duration="8788000" />
+      <workItem from="1702989475289" duration="5000" />
+      <workItem from="1703603067193" duration="2932000" />
+      <workItem from="1704570765800" duration="100000" />
+      <workItem from="1704911444225" duration="359000" />
+      <workItem from="1704915905041" duration="385000" />
+      <workItem from="1705424181167" duration="1912000" />
+      <workItem from="1705426365381" duration="3489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+</project>
