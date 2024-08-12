@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![ezgif-4-604cece0f1](https://github.com/user-attachments/assets/c901f063-bbb4-42d8-af4f-5ee0bfe09ee5)
+
 ## Description
 
 Car Zone is a web application developed using Django, HTML, CSS, JavaScript, and jQuery. It serves as an online car dealership where users can register, browse cars, and make purchases. The project also includes an admin panel for sellers to manage the inventory and other functionalities. Users can contact sellers through a messaging system, and these messages are sent to the seller's email.
@@ -68,5 +70,5 @@ Car Zone is a web application developed using Django, HTML, CSS, JavaScript, and
 4. **Sellers** can access the admin panel at `http://localhost:8000/admin/` to manage their inventory and other aspects of the dealership.
 5. **Send messages** through the application, which will be sent to the seller's email.
 
-![ezgif-4-604cece0f1](https://github.com/user-attachments/assets/c901f063-bbb4-42d8-af4f-5ee0bfe09ee5)
+
 
