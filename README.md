@@ -67,3 +67,6 @@ Car Zone is a web application developed using Django, HTML, CSS, JavaScript, and
 3. **Register and log in** to browse cars and make purchases.
 4. **Sellers** can access the admin panel at `http://localhost:8000/admin/` to manage their inventory and other aspects of the dealership.
 5. **Send messages** through the application, which will be sent to the seller's email.
+
+![ezgif-4-604cece0f1](https://github.com/user-attachments/assets/c901f063-bbb4-42d8-af4f-5ee0bfe09ee5)
+
